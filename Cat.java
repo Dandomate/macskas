@@ -1,6 +1,5 @@
-package macsskasitas_polimorfizmus;
 
-
+package macskasitas;
 public class Cat extends Animal implements Pet{
     
         public Cat(){  

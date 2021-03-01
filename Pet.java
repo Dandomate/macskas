@@ -1,5 +1,4 @@
-
-package macsskasitas_polimorfizmus;
+package macskasitas;
 
 public interface Pet {
     

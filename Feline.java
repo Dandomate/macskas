@@ -1,6 +1,4 @@
-
-package macsskasitas_polimorfizmus;
-
+package macskasitas;
 public class Feline extends Cat {
     
     

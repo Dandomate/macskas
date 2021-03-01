@@ -1,12 +1,12 @@
-package macsskasitas_polimorfizmus;
 
+package macskasitas;
 public abstract class Animal {
         private String name; 
         private int weigth;
 
         
         public void makeSound(){
-            System.out.println("AAAAA!");
+            System.out.println("AA!");
         }
         
         
